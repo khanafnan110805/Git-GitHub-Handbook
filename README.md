@@ -137,5 +137,3 @@ git stash pop                     # Restore stashed work
 - Use `git reflog` before panicking — almost nothing is truly lost.
 
 ---
-
-*Last updated: 2026 | Reference system for engineers by engineers*
