@@ -16,10 +16,10 @@ This is **not** a course to read linearly. It is a reference system to consult r
 | You're confused about branching | `04_Branching_and_Merging.md` |
 | You're contributing to open source | `05_Forking_and_Pull_Requests.md` |
 | You're confused about push/pull/fetch | `06_Remotes_and_Origin.md` |
-| You're working in a team | `07_GitHub_Workflow_RealWorld.md` |
+| You're working in a team | `07_RealWorld_GitHub_Workflows.md` |
 | Something broke and you need to fix it | `08_Debugging_and_Recovery.md` |
 | You want to rebase, cherry-pick, bisect | `09_Advanced_Git.md` |
-| You're deploying or setting up CI/CD | `10_Deployment_and_Team_Workflows.md` |
+| You're deploying or setting up CI/CD | `10_Team_and_Deployment_Workflows.md` |
 | You don't know what a term means | `11_Git_Glossary.md` |
 
 ---
@@ -36,10 +36,10 @@ Git-GitHub/
 ├── 04_Branching_and_Merging.md        ← Branches, merges, rebases, conflicts
 ├── 05_Forking_and_Pull_Requests.md    ← Open source workflows, PRs, reviews
 ├── 06_Remotes_and_Origin.md           ← Remotes, fetch/pull/push, SSH vs HTTPS
-├── 07_GitHub_Workflow_RealWorld.md    ← Team workflows, professional habits
+├── 07_RealWorld_GitHub_Workflows.md   ← Team workflows, professional habits
 ├── 08_Debugging_and_Recovery.md       ← Fixing mistakes, recovering lost work
 ├── 09_Advanced_Git.md                 ← Rebase, cherry-pick, bisect, internals
-├── 10_Deployment_and_Team_Workflows.md← CI/CD, Vercel, Netlify, releases
+├── 10_Team_and_Deployment_Workflows.md← CI/CD, Vercel, Netlify, releases
 └── 11_Git_Glossary.md                 ← Definitions for every Git/GitHub term
 ```
 
